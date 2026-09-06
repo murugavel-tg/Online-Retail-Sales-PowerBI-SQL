@@ -173,15 +173,15 @@ The analysis shows that the products with the highest quantity sold, revenue, an
 ## 📸 Dashboard Preview
 ### Sales Overview
 
-!(Online-Retail-Sales-PowerBI-SQL/Screenshots/01_Sales_Overview.png)
-
-### Customer Analytics
-
-! (Screenshots/02_Customer_Analytics.png)
+![Sales Overview](Screenshots/01_Sales_Overview.png)
 
 ### Product & Sales Analysis
 
-! (Screenshots/03_Product_Sales_Analysis.png)
+![Customer Analytics](Screenshots/02_Customer_Analytics.png)
+
+### Customer Analytics
+
+![Products & Sales Analysis](Screenshots/03_Product_Sales_Analysis.png)
 
 ## 💡 Business Recommendations
 
