@@ -136,21 +136,27 @@ Provides detailed product-level performance analysis.
 - Product Filter
 
 ## 🔍 Key Business Insights
-## 📈 Sales Performance
+### 📈 Sales Performance
+
 - Total revenue was approximately £10.64M.
 - November 2011 was the strongest month with approximately £1.50M in revenue.
 - February 2011 recorded the lowest monthly revenue at approximately £522.5K.
 - May 2011 recorded strong month-over-month growth of approximately 43.3%.
-## 🌍 Geographic Performance
+- 
+### 🌍 Geographic Performance
+
 - The UK generated approximately 84.6% of total revenue.
 - International markets contributed approximately 15.4%.
 - The Netherlands, Ireland, Germany, and France were among the strongest international markets.
-## 👥 Customer Behavior
+  
+### 👥 Customer Behavior
+
 - 4,338 identifiable customers were included in the customer-level analysis.
 - 2,845 customers were repeat customers.
 - 1,493 customers made only one purchase.
 Repeat customers generated substantially more revenue per customer than one-time customers.
-## 🏆 Customer Value
+
+### 🏆 Customer Value
 
 RFM analysis identified Champions as the most valuable customer segment, contributing the largest share of identifiable customer revenue.
 
@@ -175,13 +181,14 @@ The analysis shows that the products with the highest quantity sold, revenue, an
 
 ![Sales Overview](Screenshots/01_Sales_Overview.png)
 
-### Product & Sales Analysis
-
-![Customer Analytics](Screenshots/02_Customer_Analytics.png)
-
 ### Customer Analytics
 
-![Products & Sales Analysis](Screenshots/03_Product_Sales_Analysis.png)
+![Customer Analysis](Screenshots/02_Customer_Analytics.png)
+
+### Product & Sales Analysis
+
+![Product Sales Analysis](Screenshots/03_Product_Sales_Analysis.png)
+
 
 ## 💡 Business Recommendations
 
