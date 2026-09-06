@@ -27,24 +27,19 @@ The analysis focuses on answering key business questions:
 
 ## 📂 Dataset
 
-The project uses the Online Retail dataset from the UCI Machine Learning Repository.
+The dataset used for this project is the **Online Retail Dataset**, containing transaction-level retail sales data.
 
-The dataset contains transactional records from a UK-based online retailer covering December 2010 to December 2011.
+### Dataset Features
+- Invoice Number
+- Stock Code
+- Product Description
+- Quantity
+- Invoice Date
+- Unit Price
+- Customer ID
+- Country
 
-Original dataset:
-
-UCI Online Retail Dataset
-
-Main columns
-Column	Description
-InvoiceNo	Transaction/invoice number
-StockCode	Product code
-Description	Product description
-Quantity	Quantity purchased
-InvoiceDate	Transaction date
-UnitPrice	Price per unit
-CustomerID	Customer identifier
-Country	Customer country
+The dataset was cleaned and transformed before performing SQL analysis and building the Power BI dashboard.
 
 ## 🧹 Data Cleaning
 
